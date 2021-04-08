@@ -1,0 +1,16 @@
+{
+  "name": "blocation",
+  "version": "1.0.0",
+  "description": "a simple contract to save locations on the blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "danieltosinfayemi",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0",
+    "truffle": "^5.2.5",
+    "truffle-assertions": "^0.9.2"
+  }
+}
